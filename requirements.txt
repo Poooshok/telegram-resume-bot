@@ -1,0 +1,6 @@
+aiogram
+pandas
+fuzzywuzzy
+python-telegram-bot
+transformers
+PyMuPDF
