@@ -2,7 +2,7 @@ import logging
 import asyncio
 import sqlite3
 from aiogram import Bot, Dispatcher, types
-from aiogram.types import ParseMode
+from aiogram.enums import ParseMode
 from aiogram.filters import Command
 from config import TOKEN
 from analyze import analyze_resume, compare_resumes

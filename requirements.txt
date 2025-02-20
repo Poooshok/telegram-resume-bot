@@ -1,4 +1,4 @@
-aiogram
+aiogram==3.0.0
 pandas
 fuzzywuzzy
 python-telegram-bot
